@@ -3,7 +3,7 @@
 # <div align="center">Hi, I'm Miriam!</div>  
   
 
-- 🚀 I’m a former classical music professional, now working as a full-time Data Scientist   
+- 🚀 Former classical music professional, now working as a full-time Data Scientist   
   
 
 - 🌱Currently working with Python on ML models and reinforcing my data visualization skills  
